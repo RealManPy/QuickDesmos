@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1e1e2f;
+    font-family: 'Courier New', Courier, monospace;
+    color: #e0e0e0;
+}
+
+#header {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #282c34;
+    color: #61dafb;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    font-size: 2.5em;
+    font-weight: bold;
+    border-bottom: 2px solid #61dafb;
+}
+
+#game-container {
+    display: flex;
+    align-items: center;
+	flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    max-width: 900px;
+}
+
+#canvas-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+#color-buttons {
+    display: flex;
+    flex-direction: row;
+    margin-right: 20px;
+}
+
+.color-btn {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+	margin-right: 20px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.color-btn[data-color="#ff0000"] {
+    background-color: #ff0000;
+}
+
+.color-btn[data-color="#00ff00"] {
+    background-color: #00ff00;
+}
+
+.color-btn[data-color="#0000ff"] {
+    background-color: #0000ff;
+}
+
+.color-btn[data-color="#ffff00"] {
+    background-color: #ffff00;
+}
+
+.color-btn[data-color="#ff00ff"] {
+    background-color: #ff00ff;
+}
+
+.color-btn[data-color="#00ffff"] {
+    background-color: #00ffff;
+}
+.color-btn[data-color="#000000"] {
+    background-color: #000000;
+}
+
+#drawingCanvas {
+    border: 2px solid #61dafb;
+    background-color: #e0e0e5;
+}
+
+#controls {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #61dafb;
+    border: none;
+    color: #282c34;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover {
+    background-color: #51c2e5;
+    transform: scale(1.05);
+}
+
+button:active {
+    background-color: #3ea7cc;
+}
+
+input[type="file"] {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #61dafb;
+    border: none;
+    color: #282c34;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+input[type="file"]:hover {
+    background-color: #51c2e5;
+    transform: scale(1.05);
+}
+
+input[type="file"]:active {
+    background-color: #3ea7cc;
+}
+
+#calculator {
+    width: 800px;
+    height: 800px;
+    border: 2px solid #61dafb;
+    margin-top: 20px;
+    background-color: #333346;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}

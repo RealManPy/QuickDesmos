@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Desmos</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://www.desmos.com/api/v1.9/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+</head>
+<body>
+    <div id="header">
+        <h1>Quick Desmos</h1>
+    </div>
+    <div id="game-container">
+			<div id="color-buttons">
+				<button class="color-btn" data-color="#ff0000"></button>
+				<button class="color-btn" data-color="#00ff00"></button>
+				<button class="color-btn" data-color="#0000ff"></button>
+				<button class="color-btn" data-color="#ffff00"></button>
+				<button class="color-btn" data-color="#ff00ff"></button>
+				<button class="color-btn" data-color="#00ffff"></button>
+				<button class="color-btn" data-color="#000000"></button>
+			</div>
+			<canvas id="drawingCanvas" width="800" height="800"></canvas> <br>
+
+		<div>
+        <div id="controls">
+            <div id="buttons">
+                <button id="undo">Undo</button>
+                <button id="clear">Clear</button>
+                <button id="showEquations">Show Equations</button>
+            </div>
+            <input type="file" id="imageUpload" accept="image/*">
+        </div>
+        <div id="calculator"></div>
+		</div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

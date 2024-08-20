@@ -1,0 +1,2402 @@
+[
+    {
+        "startX": -9.775,
+        "startY": -2.575,
+        "endX": -7.75,
+        "endY": -1.65
+    },
+    {
+        "startX": -7.75,
+        "startY": -1.65,
+        "endX": -6.6,
+        "endY": -0.85
+    },
+    {
+        "startX": -6.6,
+        "startY": -0.85,
+        "endX": -6.2,
+        "endY": -0.425
+    },
+    {
+        "startX": -6.2,
+        "startY": -0.425,
+        "endX": -6.175,
+        "endY": 0.2
+    },
+    {
+        "startX": -6.175,
+        "startY": 0.2,
+        "endX": -8.625,
+        "endY": 0.225
+    },
+    {
+        "startX": -8.625,
+        "startY": 0.225,
+        "endX": -8.55,
+        "endY": 0.7
+    },
+    {
+        "startX": -8.55,
+        "startY": 0.7,
+        "endX": -8.25,
+        "endY": 0.875
+    },
+    {
+        "startX": -8.25,
+        "startY": 0.875,
+        "endX": -7.375,
+        "endY": 1.075
+    },
+    {
+        "startX": -7.375,
+        "startY": 1.075,
+        "endX": -6.775,
+        "endY": 1.2
+    },
+    {
+        "startX": -6.775,
+        "startY": 1.2,
+        "endX": -6.925,
+        "endY": 0.9
+    },
+    {
+        "startX": -6.925,
+        "startY": 0.9,
+        "endX": -5.8,
+        "endY": 1.325
+    },
+    {
+        "startX": -5.8,
+        "startY": 1.325,
+        "endX": -5.925,
+        "endY": 1.5
+    },
+    {
+        "startX": -5.925,
+        "startY": 1.525,
+        "endX": -5.925,
+        "endY": 1.9
+    },
+    {
+        "startX": -5.925,
+        "startY": 1.9,
+        "endX": -6.075,
+        "endY": 2
+    },
+    {
+        "startX": -6.075,
+        "startY": 2,
+        "endX": -6.1,
+        "endY": 1.775
+    },
+    {
+        "startX": -6.1,
+        "startY": 1.775,
+        "endX": -6.825,
+        "endY": 2.15
+    },
+    {
+        "startX": -6.825,
+        "startY": 2.15,
+        "endX": -6.825,
+        "endY": 1.975
+    },
+    {
+        "startX": -6.825,
+        "startY": 1.975,
+        "endX": -7.2,
+        "endY": 2
+    },
+    {
+        "startX": -7.2,
+        "startY": 2,
+        "endX": -9.25,
+        "endY": 1.3
+    },
+    {
+        "startX": -9.25,
+        "startY": 1.3,
+        "endX": -9.1,
+        "endY": 1.25
+    },
+    {
+        "startX": -9.1,
+        "startY": 1.25,
+        "endX": -9.45,
+        "endY": 0.225
+    },
+    {
+        "startX": -9.45,
+        "startY": 0.225,
+        "endX": -9.375,
+        "endY": 0.075
+    },
+    {
+        "startX": -9.375,
+        "startY": 0.075,
+        "endX": -9.15,
+        "endY": -0.05
+    },
+    {
+        "startX": -9.15,
+        "startY": -0.05,
+        "endX": -8.725,
+        "endY": -0.15
+    },
+    {
+        "startX": -8.725,
+        "startY": -0.15,
+        "endX": -8.2,
+        "endY": -0.225
+    },
+    {
+        "startX": -8.2,
+        "startY": -0.225,
+        "endX": -7.75,
+        "endY": -0.25
+    },
+    {
+        "startX": -7.75,
+        "startY": -0.25,
+        "endX": -7.4,
+        "endY": -0.4
+    },
+    {
+        "startX": -7.4,
+        "startY": -0.4,
+        "endX": -9.45,
+        "endY": -2.05
+    },
+    {
+        "startX": -9.45,
+        "startY": -2.05,
+        "endX": -9.775,
+        "endY": -2.55
+    },
+    {
+        "startX": -6.3,
+        "startY": -2.425,
+        "endX": -5.2,
+        "endY": -0.825
+    },
+    {
+        "startX": -5.2,
+        "startY": -0.825,
+        "endX": -5.4,
+        "endY": -0.925
+    },
+    {
+        "startX": -5.4,
+        "startY": -0.925,
+        "endX": -5.35,
+        "endY": -0.6
+    },
+    {
+        "startX": -5.35,
+        "startY": -0.6,
+        "endX": -4.925,
+        "endY": -0.525
+    },
+    {
+        "startX": -4.925,
+        "startY": -0.525,
+        "endX": -4.925,
+        "endY": -0.45
+    },
+    {
+        "startX": -4.925,
+        "startY": -0.45,
+        "endX": -4.35,
+        "endY": -0.5
+    },
+    {
+        "startX": -4.35,
+        "startY": -0.5,
+        "endX": -3.8,
+        "endY": -0.45
+    },
+    {
+        "startX": -3.8,
+        "startY": -0.45,
+        "endX": -3.175,
+        "endY": -0.325
+    },
+    {
+        "startX": -3.175,
+        "startY": -0.325,
+        "endX": -2.975,
+        "endY": -0.2
+    },
+    {
+        "startX": -2.975,
+        "startY": -0.2,
+        "endX": -3,
+        "endY": 0.225
+    },
+    {
+        "startX": -3,
+        "startY": 0.225,
+        "endX": -2.75,
+        "endY": 0.4
+    },
+    {
+        "startX": -2.75,
+        "startY": 0.4,
+        "endX": -2.75,
+        "endY": 0.65
+    },
+    {
+        "startX": -2.75,
+        "startY": 0.65,
+        "endX": -2.7,
+        "endY": 0.65
+    },
+    {
+        "startX": -2.7,
+        "startY": 0.65,
+        "endX": -2.65,
+        "endY": 0.475
+    },
+    {
+        "startX": -2.65,
+        "startY": 0.475,
+        "endX": -2.6,
+        "endY": 0.575
+    },
+    {
+        "startX": -2.6,
+        "startY": 0.575,
+        "endX": -2.6,
+        "endY": 0.875
+    },
+    {
+        "startX": -2.6,
+        "startY": 0.875,
+        "endX": -2.775,
+        "endY": 1.075
+    },
+    {
+        "startX": -2.775,
+        "startY": 1.075,
+        "endX": -2.7,
+        "endY": 1.325
+    },
+    {
+        "startX": -2.7,
+        "startY": 1.325,
+        "endX": -2.675,
+        "endY": 1.525
+    },
+    {
+        "startX": -2.675,
+        "startY": 1.525,
+        "endX": -2.725,
+        "endY": 1.45
+    },
+    {
+        "startX": -2.725,
+        "startY": 1.45,
+        "endX": -2.75,
+        "endY": 1.75
+    },
+    {
+        "startX": -2.75,
+        "startY": 1.75,
+        "endX": -3.4,
+        "endY": 1.675
+    },
+    {
+        "startX": -3.4,
+        "startY": 1.675,
+        "endX": -3.225,
+        "endY": 1.85
+    },
+    {
+        "startX": -3.225,
+        "startY": 1.85,
+        "endX": -5.1,
+        "endY": 1.925
+    },
+    {
+        "startX": -5.1,
+        "startY": 1.925,
+        "endX": -5.225,
+        "endY": 2.05
+    },
+    {
+        "startX": -5.225,
+        "startY": 2.05,
+        "endX": -5.275,
+        "endY": 1.925
+    },
+    {
+        "startX": -5.275,
+        "startY": 1.925,
+        "endX": -5.575,
+        "endY": 1.95
+    },
+    {
+        "startX": -5.575,
+        "startY": 1.95,
+        "endX": -5.475,
+        "endY": 1.75
+    },
+    {
+        "startX": -5.475,
+        "startY": 1.75,
+        "endX": -5.575,
+        "endY": 1.75
+    },
+    {
+        "startX": -5.575,
+        "startY": 1.75,
+        "endX": -5.475,
+        "endY": 1.6
+    },
+    {
+        "startX": -5.475,
+        "startY": 1.6,
+        "endX": -5.975,
+        "endY": 0.2
+    },
+    {
+        "startX": -5.975,
+        "startY": 0.2,
+        "endX": -5.825,
+        "endY": 0.275
+    },
+    {
+        "startX": -5.825,
+        "startY": 0.275,
+        "endX": -5.925,
+        "endY": -0.775
+    },
+    {
+        "startX": -5.925,
+        "startY": -0.775,
+        "endX": -6.25,
+        "endY": -1.85
+    },
+    {
+        "startX": -6.25,
+        "startY": -1.85,
+        "endX": -6.3,
+        "endY": -2.35
+    },
+    {
+        "startX": -4.425,
+        "startY": 1.075,
+        "endX": -5.075,
+        "endY": -0.1
+    },
+    {
+        "startX": -5.075,
+        "startY": -0.1,
+        "endX": -3.85,
+        "endY": 0.375
+    },
+    {
+        "startX": -3.85,
+        "startY": 0.375,
+        "endX": -3.7,
+        "endY": 0.375
+    },
+    {
+        "startX": -3.7,
+        "startY": 0.375,
+        "endX": -3.725,
+        "endY": 0.3
+    },
+    {
+        "startX": -3.725,
+        "startY": 0.3,
+        "endX": -3.35,
+        "endY": 0.375
+    },
+    {
+        "startX": -3.35,
+        "startY": 0.375,
+        "endX": -3.225,
+        "endY": 0.475
+    },
+    {
+        "startX": -3.225,
+        "startY": 0.475,
+        "endX": -3.225,
+        "endY": 0.975
+    },
+    {
+        "startX": -3.225,
+        "startY": 0.975,
+        "endX": -4.425,
+        "endY": 1.075
+    },
+    {
+        "startX": 0.1,
+        "startY": 4.85,
+        "endX": 0.35,
+        "endY": 4.9
+    },
+    {
+        "startX": 0.35,
+        "startY": 4.9,
+        "endX": 0.775,
+        "endY": 4.75
+    },
+    {
+        "startX": 0.775,
+        "startY": 4.75,
+        "endX": 0.825,
+        "endY": 4.575
+    },
+    {
+        "startX": 0.825,
+        "startY": 4.575,
+        "endX": 0.6,
+        "endY": 4.7
+    },
+    {
+        "startX": 0.575,
+        "startY": 4.7,
+        "endX": 0.45,
+        "endY": 4.6
+    },
+    {
+        "startX": 0.45,
+        "startY": 4.6,
+        "endX": 0.525,
+        "endY": 4.475
+    },
+    {
+        "startX": 0.525,
+        "startY": 4.475,
+        "endX": -0.05,
+        "endY": 4.15
+    },
+    {
+        "startX": -0.05,
+        "startY": 4.15,
+        "endX": 0.2,
+        "endY": 4.5
+    },
+    {
+        "startX": 0.2,
+        "startY": 4.5,
+        "endX": 0.175,
+        "endY": 4.575
+    },
+    {
+        "startX": 0.175,
+        "startY": 4.575,
+        "endX": 0.35,
+        "endY": 4.7
+    },
+    {
+        "startX": 0.35,
+        "startY": 4.7,
+        "endX": 0.125,
+        "endY": 4.85
+    },
+    {
+        "startX": 0.975,
+        "startY": 4.675,
+        "endX": 0.725,
+        "endY": 4.325
+    },
+    {
+        "startX": 0.725,
+        "startY": 4.325,
+        "endX": 0.75,
+        "endY": 4.3
+    },
+    {
+        "startX": 0.75,
+        "startY": 4.3,
+        "endX": 0.475,
+        "endY": 3.95
+    },
+    {
+        "startX": 0.475,
+        "startY": 3.95,
+        "endX": 0.825,
+        "endY": 4.2
+    },
+    {
+        "startX": 0.825,
+        "startY": 4.2,
+        "endX": 1.05,
+        "endY": 4.175
+    },
+    {
+        "startX": 1.05,
+        "startY": 4.175,
+        "endX": 0.8,
+        "endY": 3.875
+    },
+    {
+        "startX": 0.8,
+        "startY": 3.875,
+        "endX": 0.875,
+        "endY": 3.85
+    },
+    {
+        "startX": 0.875,
+        "startY": 3.85,
+        "endX": 1.475,
+        "endY": 4.4
+    },
+    {
+        "startX": 1.475,
+        "startY": 4.4,
+        "endX": 1.275,
+        "endY": 4.55
+    },
+    {
+        "startX": 1.275,
+        "startY": 4.55,
+        "endX": 1.225,
+        "endY": 4.475
+    },
+    {
+        "startX": 1.225,
+        "startY": 4.475,
+        "endX": 1.3,
+        "endY": 4.4
+    },
+    {
+        "startX": 1.3,
+        "startY": 4.4,
+        "endX": 1.125,
+        "endY": 4.25
+    },
+    {
+        "startX": 1.125,
+        "startY": 4.25,
+        "endX": 0.975,
+        "endY": 4.35
+    },
+    {
+        "startX": 0.975,
+        "startY": 4.35,
+        "endX": 1.175,
+        "endY": 4.575
+    },
+    {
+        "startX": 1.175,
+        "startY": 4.575,
+        "endX": 1.025,
+        "endY": 4.7
+    },
+    {
+        "startX": 1.025,
+        "startY": 4.7,
+        "endX": 1,
+        "endY": 4.675
+    },
+    {
+        "startX": 2.225,
+        "startY": 4.2,
+        "endX": 1.575,
+        "endY": 4.45
+    },
+    {
+        "startX": 1.575,
+        "startY": 4.45,
+        "endX": 1.475,
+        "endY": 4.275
+    },
+    {
+        "startX": 1.475,
+        "startY": 4.275,
+        "endX": 1.575,
+        "endY": 4.25
+    },
+    {
+        "startX": 1.575,
+        "startY": 4.25,
+        "endX": 1.225,
+        "endY": 3.65
+    },
+    {
+        "startX": 1.225,
+        "startY": 3.65,
+        "endX": 1.875,
+        "endY": 3.625
+    },
+    {
+        "startX": 1.875,
+        "startY": 3.625,
+        "endX": 1.875,
+        "endY": 3.75
+    },
+    {
+        "startX": 1.875,
+        "startY": 3.75,
+        "endX": 1.5,
+        "endY": 3.775
+    },
+    {
+        "startX": 1.5,
+        "startY": 3.775,
+        "endX": 1.525,
+        "endY": 3.875
+    },
+    {
+        "startX": 1.525,
+        "startY": 3.875,
+        "endX": 1.925,
+        "endY": 3.875
+    },
+    {
+        "startX": 1.925,
+        "startY": 3.875,
+        "endX": 1.95,
+        "endY": 3.975
+    },
+    {
+        "startX": 1.95,
+        "startY": 3.975,
+        "endX": 1.75,
+        "endY": 4.025
+    },
+    {
+        "startX": 1.75,
+        "startY": 4.025,
+        "endX": 1.775,
+        "endY": 4.15
+    },
+    {
+        "startX": 1.775,
+        "startY": 4.15,
+        "endX": 2.25,
+        "endY": 4.15
+    },
+    {
+        "startX": 2.25,
+        "startY": 4.15,
+        "endX": 2.225,
+        "endY": 4.225
+    },
+    {
+        "startX": -3.3,
+        "startY": 4.025,
+        "endX": -2.075,
+        "endY": 1.925
+    },
+    {
+        "startX": -2.075,
+        "startY": 1.925,
+        "endX": -2.05,
+        "endY": 1.65
+    },
+    {
+        "startX": -2.05,
+        "startY": 1.65,
+        "endX": -2.175,
+        "endY": 1.4
+    },
+    {
+        "startX": -2.175,
+        "startY": 1.4,
+        "endX": -2.55,
+        "endY": 1.25
+    },
+    {
+        "startX": -2.55,
+        "startY": 1.25,
+        "endX": -2.625,
+        "endY": 1.2
+    },
+    {
+        "startX": -2.625,
+        "startY": 1.2,
+        "endX": -2.6,
+        "endY": 1.1
+    },
+    {
+        "startX": -2.6,
+        "startY": 1.1,
+        "endX": -2.525,
+        "endY": 1.025
+    },
+    {
+        "startX": -2.525,
+        "startY": 1.025,
+        "endX": -2.3,
+        "endY": 0.85
+    },
+    {
+        "startX": -2.275,
+        "startY": 0.85,
+        "endX": -2.275,
+        "endY": 0.5
+    },
+    {
+        "startX": -2.275,
+        "startY": 0.5,
+        "endX": -2.6,
+        "endY": 0.25
+    },
+    {
+        "startX": -2.6,
+        "startY": 0.25,
+        "endX": -2.75,
+        "endY": 0.275
+    },
+    {
+        "startX": -2.75,
+        "startY": 0.275,
+        "endX": -2.875,
+        "endY": 0.15
+    },
+    {
+        "startX": -2.875,
+        "startY": 0.15,
+        "endX": -2.85,
+        "endY": 0.05
+    },
+    {
+        "startX": -2.85,
+        "startY": 0.05,
+        "endX": -2.65,
+        "endY": -0.15
+    },
+    {
+        "startX": -2.625,
+        "startY": -0.175,
+        "endX": -2.525,
+        "endY": -0.275
+    },
+    {
+        "startX": -2.675,
+        "startY": -0.15,
+        "endX": -2.6,
+        "endY": -0.175
+    },
+    {
+        "startX": -2.5,
+        "startY": -0.25,
+        "endX": -2.65,
+        "endY": -0.725
+    },
+    {
+        "startX": -2.65,
+        "startY": -0.725,
+        "endX": -3.1,
+        "endY": -0.875
+    },
+    {
+        "startX": -3.1,
+        "startY": -0.875,
+        "endX": -3.125,
+        "endY": -1.075
+    },
+    {
+        "startX": -3.125,
+        "startY": -1.075,
+        "endX": -2.825,
+        "endY": -1.275
+    },
+    {
+        "startX": -2.825,
+        "startY": -1.275,
+        "endX": -2.8,
+        "endY": -1.625
+    },
+    {
+        "startX": -2.8,
+        "startY": -1.625,
+        "endX": -2.975,
+        "endY": -1.8
+    },
+    {
+        "startX": -2.975,
+        "startY": -1.8,
+        "endX": -3.325,
+        "endY": -1.95
+    },
+    {
+        "startX": -3.325,
+        "startY": -1.95,
+        "endX": -3.4,
+        "endY": -2.1
+    },
+    {
+        "startX": -3.4,
+        "startY": -2.1,
+        "endX": -3,
+        "endY": -2.425
+    },
+    {
+        "startX": -3,
+        "startY": -2.4,
+        "endX": -2.975,
+        "endY": -2.875
+    },
+    {
+        "startX": -2.975,
+        "startY": -2.875,
+        "endX": -3.275,
+        "endY": -3
+    },
+    {
+        "startX": -3.275,
+        "startY": -3,
+        "endX": -3.325,
+        "endY": -3.1
+    },
+    {
+        "startX": -3.325,
+        "startY": -3.1,
+        "endX": -3.275,
+        "endY": -3.225
+    },
+    {
+        "startX": -3.275,
+        "startY": -3.225,
+        "endX": -2.975,
+        "endY": -3.4
+    },
+    {
+        "startX": -2.975,
+        "startY": -3.4,
+        "endX": -2.775,
+        "endY": -4.85
+    },
+    {
+        "startX": -2.775,
+        "startY": -4.85,
+        "endX": -2.625,
+        "endY": -4.95
+    },
+    {
+        "startX": -2.625,
+        "startY": -4.95,
+        "endX": -1.95,
+        "endY": -4.05
+    },
+    {
+        "startX": -1.95,
+        "startY": -4.05,
+        "endX": -1.675,
+        "endY": -4
+    },
+    {
+        "startX": -1.675,
+        "startY": -4,
+        "endX": -1.625,
+        "endY": -3.85
+    },
+    {
+        "startX": -1.625,
+        "startY": -3.85,
+        "endX": -1.75,
+        "endY": -3.725
+    },
+    {
+        "startX": -1.75,
+        "startY": -3.725,
+        "endX": -1.625,
+        "endY": -3.4
+    },
+    {
+        "startX": -1.625,
+        "startY": -3.4,
+        "endX": -1.275,
+        "endY": -3.35
+    },
+    {
+        "startX": -1.275,
+        "startY": -3.35,
+        "endX": -1.1,
+        "endY": -3.25
+    },
+    {
+        "startX": -1.125,
+        "startY": -3.25,
+        "endX": -1.125,
+        "endY": -3.1
+    },
+    {
+        "startX": -1.125,
+        "startY": -3.1,
+        "endX": -1.325,
+        "endY": -2.9
+    },
+    {
+        "startX": -1.325,
+        "startY": -2.9,
+        "endX": -1.1,
+        "endY": -2.375
+    },
+    {
+        "startX": -1.1,
+        "startY": -2.375,
+        "endX": -0.725,
+        "endY": -2.325
+    },
+    {
+        "startX": -0.725,
+        "startY": -2.325,
+        "endX": -0.625,
+        "endY": -2.1
+    },
+    {
+        "startX": -0.625,
+        "startY": -2.1,
+        "endX": -0.975,
+        "endY": -1.775
+    },
+    {
+        "startX": -0.975,
+        "startY": -1.775,
+        "endX": -0.85,
+        "endY": -1.3
+    },
+    {
+        "startX": -0.85,
+        "startY": -1.3,
+        "endX": -0.475,
+        "endY": -1.225
+    },
+    {
+        "startX": -0.475,
+        "startY": -1.25,
+        "endX": -0.375,
+        "endY": -1.05
+    },
+    {
+        "startX": -0.375,
+        "startY": -1.05,
+        "endX": -0.725,
+        "endY": -0.75
+    },
+    {
+        "startX": -0.725,
+        "startY": -0.75,
+        "endX": -0.7,
+        "endY": -0.55
+    },
+    {
+        "startX": -0.7,
+        "startY": -0.55,
+        "endX": -0.625,
+        "endY": -0.35
+    },
+    {
+        "startX": -0.625,
+        "startY": -0.35,
+        "endX": -0.475,
+        "endY": -0.2
+    },
+    {
+        "startX": -0.475,
+        "startY": -0.2,
+        "endX": -0.225,
+        "endY": -0.15
+    },
+    {
+        "startX": -0.225,
+        "startY": -0.15,
+        "endX": -0.175,
+        "endY": 0
+    },
+    {
+        "startX": -0.175,
+        "startY": 0,
+        "endX": -0.275,
+        "endY": 0.15
+    },
+    {
+        "startX": -0.275,
+        "startY": 0.15,
+        "endX": -0.425,
+        "endY": 0.25
+    },
+    {
+        "startX": -0.425,
+        "startY": 0.275,
+        "endX": -0.525,
+        "endY": 0.425
+    },
+    {
+        "startX": -0.525,
+        "startY": 0.45,
+        "endX": -0.45,
+        "endY": 0.675
+    },
+    {
+        "startX": -0.45,
+        "startY": 0.7,
+        "endX": -0.3,
+        "endY": 0.85
+    },
+    {
+        "startX": -0.3,
+        "startY": 0.85,
+        "endX": -0.025,
+        "endY": 0.85
+    },
+    {
+        "startX": -0.025,
+        "startY": 0.85,
+        "endX": 0.125,
+        "endY": 0.975
+    },
+    {
+        "startX": 0.125,
+        "startY": 1,
+        "endX": -0.025,
+        "endY": 1.3
+    },
+    {
+        "startX": -0.025,
+        "startY": 1.3,
+        "endX": -0.175,
+        "endY": 1.4
+    },
+    {
+        "startX": -0.175,
+        "startY": 1.4,
+        "endX": 1.925,
+        "endY": 2.75
+    },
+    {
+        "startX": 1.925,
+        "startY": 2.8,
+        "endX": 1.425,
+        "endY": 3.225
+    },
+    {
+        "startX": 1.425,
+        "startY": 3.225,
+        "endX": 0.575,
+        "endY": 3.675
+    },
+    {
+        "startX": 0.575,
+        "startY": 3.675,
+        "endX": -0.4,
+        "endY": 4.025
+    },
+    {
+        "startX": -0.4,
+        "startY": 4.025,
+        "endX": -0.55,
+        "endY": 3.9
+    },
+    {
+        "startX": -0.575,
+        "startY": 3.9,
+        "endX": -0.725,
+        "endY": 4.05
+    },
+    {
+        "startX": -0.725,
+        "startY": 4.05,
+        "endX": -1.4,
+        "endY": 4.2
+    },
+    {
+        "startX": -1.4,
+        "startY": 4.2,
+        "endX": -2.175,
+        "endY": 4.2
+    },
+    {
+        "startX": -2.175,
+        "startY": 4.2,
+        "endX": -2.95,
+        "endY": 4.175
+    },
+    {
+        "startX": -2.95,
+        "startY": 4.175,
+        "endX": -3.35,
+        "endY": 4.025
+    },
+    {
+        "startX": -2.725,
+        "startY": 3.775,
+        "endX": -1.675,
+        "endY": 1.875
+    },
+    {
+        "startX": -1.675,
+        "startY": 1.875,
+        "endX": -1.35,
+        "endY": 1.725
+    },
+    {
+        "startX": -1.35,
+        "startY": 1.7,
+        "endX": -1.55,
+        "endY": 3.55
+    },
+    {
+        "startX": -1.55,
+        "startY": 3.55,
+        "endX": -2.675,
+        "endY": 3.775
+    },
+    {
+        "startX": -1.375,
+        "startY": 1.55,
+        "endX": -1.425,
+        "endY": 1.35
+    },
+    {
+        "startX": -1.425,
+        "startY": 1.35,
+        "endX": -2.2,
+        "endY": 1.175
+    },
+    {
+        "startX": -2.2,
+        "startY": 1.175,
+        "endX": -0.125,
+        "endY": 1.025
+    },
+    {
+        "startX": -0.125,
+        "startY": 1.025,
+        "endX": -0.525,
+        "endY": 1.35
+    },
+    {
+        "startX": -0.525,
+        "startY": 1.35,
+        "endX": -0.825,
+        "endY": 1.3
+    },
+    {
+        "startX": -0.825,
+        "startY": 1.3,
+        "endX": -1.025,
+        "endY": 1.525
+    },
+    {
+        "startX": -1.025,
+        "startY": 1.525,
+        "endX": -1.35,
+        "endY": 1.525
+    },
+    {
+        "startX": -1.525,
+        "startY": 0.95,
+        "endX": -1.05,
+        "endY": 0.9
+    },
+    {
+        "startX": -1.05,
+        "startY": 0.9,
+        "endX": -1.125,
+        "endY": 0.375
+    },
+    {
+        "startX": -1.125,
+        "startY": 0.375,
+        "endX": -1.075,
+        "endY": 0.275
+    },
+    {
+        "startX": -1.075,
+        "startY": 0.275,
+        "endX": -0.65,
+        "endY": 0.275
+    },
+    {
+        "startX": -0.65,
+        "startY": 0.275,
+        "endX": -0.45,
+        "endY": 0.05
+    },
+    {
+        "startX": -0.45,
+        "startY": 0.05,
+        "endX": -0.425,
+        "endY": 0.025
+    },
+    {
+        "startX": -0.425,
+        "startY": 0.025,
+        "endX": -2.55,
+        "endY": 0.1
+    },
+    {
+        "startX": -2.55,
+        "startY": 0.1,
+        "endX": -2.375,
+        "endY": 0.2
+    },
+    {
+        "startX": -2.375,
+        "startY": 0.2,
+        "endX": -1.775,
+        "endY": 0.225
+    },
+    {
+        "startX": -1.775,
+        "startY": 0.225,
+        "endX": -1.5,
+        "endY": 0.925
+    },
+    {
+        "startX": -1.775,
+        "startY": -0.15,
+        "endX": -1.275,
+        "endY": -0.15
+    },
+    {
+        "startX": -1.275,
+        "startY": -0.15,
+        "endX": -1.4,
+        "endY": -0.75
+    },
+    {
+        "startX": -1.4,
+        "startY": -0.75,
+        "endX": -0.95,
+        "endY": -0.775
+    },
+    {
+        "startX": -0.95,
+        "startY": -0.775,
+        "endX": -0.675,
+        "endY": -1.025
+    },
+    {
+        "startX": -0.675,
+        "startY": -1.025,
+        "endX": -2.75,
+        "endY": -0.975
+    },
+    {
+        "startX": -2.75,
+        "startY": -0.975,
+        "endX": -1.925,
+        "endY": -0.775
+    },
+    {
+        "startX": -1.925,
+        "startY": -0.725,
+        "endX": -1.775,
+        "endY": -0.15
+    },
+    {
+        "startX": -2.025,
+        "startY": -1.2,
+        "endX": -1.575,
+        "endY": -1.225
+    },
+    {
+        "startX": -1.575,
+        "startY": -1.225,
+        "endX": -1.6,
+        "endY": -1.8
+    },
+    {
+        "startX": -1.6,
+        "startY": -1.8,
+        "endX": -1.175,
+        "endY": -1.85
+    },
+    {
+        "startX": -1.175,
+        "startY": -1.85,
+        "endX": -0.925,
+        "endY": -2.1
+    },
+    {
+        "startX": -0.925,
+        "startY": -2.1,
+        "endX": -3.025,
+        "endY": -2.05
+    },
+    {
+        "startX": -3.025,
+        "startY": -2.05,
+        "endX": -2.775,
+        "endY": -1.9
+    },
+    {
+        "startX": -2.775,
+        "startY": -1.9,
+        "endX": -2.275,
+        "endY": -1.875
+    },
+    {
+        "startX": -2.275,
+        "startY": -1.875,
+        "endX": -2.025,
+        "endY": -1.175
+    },
+    {
+        "startX": -2.3,
+        "startY": -2.3,
+        "endX": -1.775,
+        "endY": -2.275
+    },
+    {
+        "startX": -1.775,
+        "startY": -2.275,
+        "endX": -1.9,
+        "endY": -2.925
+    },
+    {
+        "startX": -1.9,
+        "startY": -2.925,
+        "endX": -1.575,
+        "endY": -2.9
+    },
+    {
+        "startX": -1.575,
+        "startY": -2.9,
+        "endX": -1.375,
+        "endY": -3.15
+    },
+    {
+        "startX": -1.375,
+        "startY": -3.15,
+        "endX": -2.975,
+        "endY": -3.1
+    },
+    {
+        "startX": -2.975,
+        "startY": -3.1,
+        "endX": -2.9,
+        "endY": -2.975
+    },
+    {
+        "startX": -2.9,
+        "startY": -2.975,
+        "endX": -2.5,
+        "endY": -2.975
+    },
+    {
+        "startX": -2.5,
+        "startY": -2.975,
+        "endX": -2.275,
+        "endY": -2.3
+    },
+    {
+        "startX": -1.925,
+        "startY": -3.875,
+        "endX": -2.525,
+        "endY": -3.85
+    },
+    {
+        "startX": -2.525,
+        "startY": -3.85,
+        "endX": -2.45,
+        "endY": -3.35
+    },
+    {
+        "startX": -2.45,
+        "startY": -3.35,
+        "endX": -2.175,
+        "endY": -3.35
+    },
+    {
+        "startX": -2.175,
+        "startY": -3.35,
+        "endX": -2.25,
+        "endY": -3.75
+    },
+    {
+        "startX": -2.25,
+        "startY": -3.75,
+        "endX": -1.925,
+        "endY": -3.825
+    },
+    {
+        "startX": -2.525,
+        "startY": -3.925,
+        "endX": -2.625,
+        "endY": -4.6
+    },
+    {
+        "startX": -2.625,
+        "startY": -4.6,
+        "endX": -2.575,
+        "endY": -4.625
+    },
+    {
+        "startX": -2.575,
+        "startY": -4.625,
+        "endX": -2.325,
+        "endY": -4
+    },
+    {
+        "startX": -2.325,
+        "startY": -4,
+        "endX": -2.475,
+        "endY": -3.95
+    },
+    {
+        "startX": -0.45,
+        "startY": -2.65,
+        "endX": -0.075,
+        "endY": -0.925
+    },
+    {
+        "startX": -0.075,
+        "startY": -0.925,
+        "endX": -0.05,
+        "endY": -0.4
+    },
+    {
+        "startX": -0.05,
+        "startY": -0.375,
+        "endX": -0.2,
+        "endY": -0.325
+    },
+    {
+        "startX": -0.225,
+        "startY": -0.325,
+        "endX": -0.025,
+        "endY": -0.125
+    },
+    {
+        "startX": -0.025,
+        "startY": -0.125,
+        "endX": -0.025,
+        "endY": 0.05
+    },
+    {
+        "startX": -0.025,
+        "startY": 0.05,
+        "endX": -0.125,
+        "endY": 0.15
+    },
+    {
+        "startX": -0.125,
+        "startY": 0.15,
+        "endX": -0.075,
+        "endY": 0.7
+    },
+    {
+        "startX": -0.075,
+        "startY": 0.7,
+        "endX": 0.125,
+        "endY": 0.775
+    },
+    {
+        "startX": 0.125,
+        "startY": 0.775,
+        "endX": 0.225,
+        "endY": 0.95
+    },
+    {
+        "startX": 0.225,
+        "startY": 0.95,
+        "endX": 0.2,
+        "endY": 1.125
+    },
+    {
+        "startX": 0.2,
+        "startY": 1.125,
+        "endX": 0.15,
+        "endY": 1.225
+    },
+    {
+        "startX": 0.15,
+        "startY": 1.225,
+        "endX": 0.05,
+        "endY": 1.35
+    },
+    {
+        "startX": 0.05,
+        "startY": 1.35,
+        "endX": 1.025,
+        "endY": 2
+    },
+    {
+        "startX": 1.025,
+        "startY": 2,
+        "endX": 1.35,
+        "endY": 2
+    },
+    {
+        "startX": 1.35,
+        "startY": 2,
+        "endX": 1.275,
+        "endY": 1.85
+    },
+    {
+        "startX": 1.275,
+        "startY": 1.85,
+        "endX": 1.525,
+        "endY": 1.85
+    },
+    {
+        "startX": 1.525,
+        "startY": 1.85,
+        "endX": 1.35,
+        "endY": 1.625
+    },
+    {
+        "startX": 1.35,
+        "startY": 1.625,
+        "endX": 0.85,
+        "endY": 0.6
+    },
+    {
+        "startX": 0.85,
+        "startY": 0.6,
+        "endX": 0.675,
+        "endY": 0.025
+    },
+    {
+        "startX": 0.675,
+        "startY": 0.025,
+        "endX": 1.25,
+        "endY": 0.4
+    },
+    {
+        "startX": 1.25,
+        "startY": 0.4,
+        "endX": 2.3,
+        "endY": 1
+    },
+    {
+        "startX": 2.3,
+        "startY": 1,
+        "endX": 2.625,
+        "endY": 1.375
+    },
+    {
+        "startX": 2.625,
+        "startY": 1.375,
+        "endX": 2.375,
+        "endY": 1.675
+    },
+    {
+        "startX": 2.375,
+        "startY": 1.7,
+        "endX": 2.575,
+        "endY": 1.575
+    },
+    {
+        "startX": 2.575,
+        "startY": 1.575,
+        "endX": 2.425,
+        "endY": 1.875
+    },
+    {
+        "startX": 2.425,
+        "startY": 1.875,
+        "endX": 3.1,
+        "endY": 1.525
+    },
+    {
+        "startX": 3.1,
+        "startY": 1.525,
+        "endX": 3.525,
+        "endY": 1.275
+    },
+    {
+        "startX": 3.525,
+        "startY": 1.275,
+        "endX": 3.675,
+        "endY": 1.325
+    },
+    {
+        "startX": 3.675,
+        "startY": 1.325,
+        "endX": 3.725,
+        "endY": 1.3
+    },
+    {
+        "startX": 3.725,
+        "startY": 1.3,
+        "endX": 3.725,
+        "endY": 1.175
+    },
+    {
+        "startX": 3.725,
+        "startY": 1.175,
+        "endX": 4.075,
+        "endY": 0.925
+    },
+    {
+        "startX": 4.075,
+        "startY": 0.925,
+        "endX": 4.025,
+        "endY": 0.875
+    },
+    {
+        "startX": 4.025,
+        "startY": 0.875,
+        "endX": 3.8,
+        "endY": 0.975
+    },
+    {
+        "startX": 3.8,
+        "startY": 0.975,
+        "endX": 3.825,
+        "endY": 0.85
+    },
+    {
+        "startX": 3.825,
+        "startY": 0.85,
+        "endX": 1.025,
+        "endY": -0.25
+    },
+    {
+        "startX": 1.025,
+        "startY": -0.25,
+        "endX": 2.175,
+        "endY": -1.05
+    },
+    {
+        "startX": 2.175,
+        "startY": -1.05,
+        "endX": 1.625,
+        "endY": -0.9
+    },
+    {
+        "startX": 1.625,
+        "startY": -0.9,
+        "endX": 2.975,
+        "endY": -2.825
+    },
+    {
+        "startX": 2.975,
+        "startY": -2.825,
+        "endX": 2.15,
+        "endY": -2.425
+    },
+    {
+        "startX": 2.15,
+        "startY": -2.425,
+        "endX": 0.9,
+        "endY": -1.65
+    },
+    {
+        "startX": 0.9,
+        "startY": -1.65,
+        "endX": 1.375,
+        "endY": -1.675
+    },
+    {
+        "startX": 1.375,
+        "startY": -1.675,
+        "endX": 0.575,
+        "endY": -0.825
+    },
+    {
+        "startX": 0.575,
+        "startY": -0.825,
+        "endX": -0.425,
+        "endY": -2.6
+    },
+    {
+        "startX": 3.475,
+        "startY": 1.65,
+        "endX": 3.575,
+        "endY": 1.8
+    },
+    {
+        "startX": 3.575,
+        "startY": 1.8,
+        "endX": 6.675,
+        "endY": 1.85
+    },
+    {
+        "startX": 6.675,
+        "startY": 1.85,
+        "endX": 6.025,
+        "endY": 1.55
+    },
+    {
+        "startX": 6,
+        "startY": 1.55,
+        "endX": 6,
+        "endY": 1.25
+    },
+    {
+        "startX": 6,
+        "startY": 1.25,
+        "endX": 5.15,
+        "endY": 1
+    },
+    {
+        "startX": 5.15,
+        "startY": 1,
+        "endX": 4.675,
+        "endY": 0.125
+    },
+    {
+        "startX": 4.675,
+        "startY": 0.125,
+        "endX": 5.725,
+        "endY": 0.225
+    },
+    {
+        "startX": 5.725,
+        "startY": 0.225,
+        "endX": 5.8,
+        "endY": 0.1
+    },
+    {
+        "startX": 5.8,
+        "startY": 0.1,
+        "endX": 4.2,
+        "endY": -0.7
+    },
+    {
+        "startX": 4.2,
+        "startY": -0.7,
+        "endX": 4.15,
+        "endY": -0.875
+    },
+    {
+        "startX": 4.15,
+        "startY": -0.9,
+        "endX": 4.275,
+        "endY": -0.85
+    },
+    {
+        "startX": 4.275,
+        "startY": -0.85,
+        "endX": 4.025,
+        "endY": -1.4
+    },
+    {
+        "startX": 4.025,
+        "startY": -1.4,
+        "endX": 6.425,
+        "endY": -0.875
+    },
+    {
+        "startX": 6.425,
+        "startY": -0.875,
+        "endX": 6.425,
+        "endY": -0.975
+    },
+    {
+        "startX": 6.425,
+        "startY": -0.95,
+        "endX": 5.575,
+        "endY": -1.425
+    },
+    {
+        "startX": 5.575,
+        "startY": -1.425,
+        "endX": 5.975,
+        "endY": -1.325
+    },
+    {
+        "startX": 5.975,
+        "startY": -1.325,
+        "endX": 5.925,
+        "endY": -1.45
+    },
+    {
+        "startX": 5.925,
+        "startY": -1.45,
+        "endX": 3.1,
+        "endY": -2.525
+    },
+    {
+        "startX": 3.1,
+        "startY": -2.525,
+        "endX": 3.75,
+        "endY": 0.65
+    },
+    {
+        "startX": 3.75,
+        "startY": 0.65,
+        "endX": 4.325,
+        "endY": 0.675
+    },
+    {
+        "startX": 4.325,
+        "startY": 0.675,
+        "endX": 4.35,
+        "endY": 0.9
+    },
+    {
+        "startX": 4.35,
+        "startY": 0.9,
+        "endX": 3.925,
+        "endY": 1.3
+    },
+    {
+        "startX": 3.925,
+        "startY": 1.3,
+        "endX": 3.9,
+        "endY": 1.4
+    },
+    {
+        "startX": 3.9,
+        "startY": 1.4,
+        "endX": 3.475,
+        "endY": 1.625
+    },
+    {
+        "startX": 5.625,
+        "startY": -2.4,
+        "endX": 6,
+        "endY": -2.05
+    },
+    {
+        "startX": 6,
+        "startY": -2.05,
+        "endX": 5.775,
+        "endY": -2.1
+    },
+    {
+        "startX": 5.775,
+        "startY": -2.1,
+        "endX": 8.05,
+        "endY": -0.275
+    },
+    {
+        "startX": 8.05,
+        "startY": -0.275,
+        "endX": 7.525,
+        "endY": -0.1
+    },
+    {
+        "startX": 7.525,
+        "startY": -0.1,
+        "endX": 6.7,
+        "endY": -0.05
+    },
+    {
+        "startX": 6.7,
+        "startY": -0.05,
+        "endX": 6.075,
+        "endY": 0.15
+    },
+    {
+        "startX": 6.075,
+        "startY": 0.15,
+        "endX": 5.95,
+        "endY": 0.325
+    },
+    {
+        "startX": 5.95,
+        "startY": 0.325,
+        "endX": 6.275,
+        "endY": 1.375
+    },
+    {
+        "startX": 6.275,
+        "startY": 1.375,
+        "endX": 6.2,
+        "endY": 1.425
+    },
+    {
+        "startX": 6.2,
+        "startY": 1.425,
+        "endX": 7,
+        "endY": 1.725
+    },
+    {
+        "startX": 7,
+        "startY": 1.725,
+        "endX": 7.925,
+        "endY": 2.025
+    },
+    {
+        "startX": 7.925,
+        "startY": 2.025,
+        "endX": 8.6,
+        "endY": 2.1
+    },
+    {
+        "startX": 8.6,
+        "startY": 2.1,
+        "endX": 8.525,
+        "endY": 2.25
+    },
+    {
+        "startX": 8.525,
+        "startY": 2.25,
+        "endX": 9.325,
+        "endY": 1.875
+    },
+    {
+        "startX": 9.325,
+        "startY": 1.875,
+        "endX": 9.375,
+        "endY": 2.125
+    },
+    {
+        "startX": 9.375,
+        "startY": 2.125,
+        "endX": 9.475,
+        "endY": 1.9
+    },
+    {
+        "startX": 9.475,
+        "startY": 1.9,
+        "endX": 9.475,
+        "endY": 1.625
+    },
+    {
+        "startX": 9.475,
+        "startY": 1.625,
+        "endX": 9.575,
+        "endY": 1.475
+    },
+    {
+        "startX": 9.575,
+        "startY": 1.475,
+        "endX": 8.475,
+        "endY": 0.975
+    },
+    {
+        "startX": 8.475,
+        "startY": 0.975,
+        "endX": 8.575,
+        "endY": 1.15
+    },
+    {
+        "startX": 8.575,
+        "startY": 1.15,
+        "endX": 8.5,
+        "endY": 1.175
+    },
+    {
+        "startX": 8.5,
+        "startY": 1.175,
+        "endX": 8.7,
+        "endY": 1.275
+    },
+    {
+        "startX": 8.7,
+        "startY": 1.3,
+        "endX": 8.55,
+        "endY": 1.325
+    },
+    {
+        "startX": 8.525,
+        "startY": 1.325,
+        "endX": 7.8,
+        "endY": 1.175
+    },
+    {
+        "startX": 7.8,
+        "startY": 1.175,
+        "endX": 7.175,
+        "endY": 1
+    },
+    {
+        "startX": 7.175,
+        "startY": 1,
+        "endX": 7.025,
+        "endY": 0.85
+    },
+    {
+        "startX": 7.025,
+        "startY": 0.85,
+        "endX": 6.9,
+        "endY": 1
+    },
+    {
+        "startX": 6.9,
+        "startY": 1,
+        "endX": 6.775,
+        "endY": 0.55
+    },
+    {
+        "startX": 6.775,
+        "startY": 0.55,
+        "endX": 6.675,
+        "endY": 0.425
+    },
+    {
+        "startX": 6.675,
+        "startY": 0.425,
+        "endX": 6.75,
+        "endY": 0.325
+    },
+    {
+        "startX": 6.75,
+        "startY": 0.325,
+        "endX": 9.775,
+        "endY": 0.275
+    },
+    {
+        "startX": 9.775,
+        "startY": 0.275,
+        "endX": 9.05,
+        "endY": -0.325
+    },
+    {
+        "startX": 9.05,
+        "startY": -0.325,
+        "endX": 9.225,
+        "endY": -0.375
+    },
+    {
+        "startX": 9.225,
+        "startY": -0.4,
+        "endX": 8.075,
+        "endY": -1.3
+    },
+    {
+        "startX": 8.05,
+        "startY": -1.3,
+        "endX": 7.025,
+        "endY": -1.825
+    },
+    {
+        "startX": 7.025,
+        "startY": -1.825,
+        "endX": 6.225,
+        "endY": -2.15
+    },
+    {
+        "startX": 6.225,
+        "startY": -2.15,
+        "endX": 5.675,
+        "endY": -2.4
+    },
+    {
+        "startX": 4.375,
+        "startY": -3.65,
+        "endX": 4.475,
+        "endY": -3.225
+    },
+    {
+        "startX": 4.725,
+        "startY": -3.175,
+        "endX": 4.6,
+        "endY": -3.675
+    },
+    {
+        "startX": 4.35,
+        "startY": -3.325,
+        "endX": 4.775,
+        "endY": -3.25
+    },
+    {
+        "startX": 4.275,
+        "startY": -3.575,
+        "endX": 4.725,
+        "endY": -3.475
+    },
+    {
+        "startX": 5.025,
+        "startY": -3.3,
+        "endX": 5,
+        "endY": -3.4
+    },
+    {
+        "startX": 5,
+        "startY": -3.4,
+        "endX": 4.875,
+        "endY": -3.4
+    },
+    {
+        "startX": 4.875,
+        "startY": -3.4,
+        "endX": 4.9,
+        "endY": -3.25
+    },
+    {
+        "startX": 4.9,
+        "startY": -3.25,
+        "endX": 5.025,
+        "endY": -3.125
+    },
+    {
+        "startX": 5.025,
+        "startY": -3.125,
+        "endX": 5.25,
+        "endY": -3.075
+    },
+    {
+        "startX": 5.25,
+        "startY": -3.075,
+        "endX": 5.4,
+        "endY": -3.15
+    },
+    {
+        "startX": 5.4,
+        "startY": -3.15,
+        "endX": 5.15,
+        "endY": -3.6
+    },
+    {
+        "startX": 5.15,
+        "startY": -3.6,
+        "endX": 5.425,
+        "endY": -3.4
+    },
+    {
+        "startX": 5.425,
+        "startY": -3.4,
+        "endX": 5.45,
+        "endY": -3.425
+    },
+    {
+        "startX": 5.45,
+        "startY": -3.425,
+        "endX": 5.15,
+        "endY": -3.75
+    },
+    {
+        "startX": 5.15,
+        "startY": -3.75,
+        "endX": 5.05,
+        "endY": -3.875
+    },
+    {
+        "startX": 5.05,
+        "startY": -3.875,
+        "endX": 4.95,
+        "endY": -3.85
+    },
+    {
+        "startX": 4.95,
+        "startY": -3.85,
+        "endX": 4.925,
+        "endY": -3.725
+    },
+    {
+        "startX": 4.925,
+        "startY": -3.725,
+        "endX": 5.2,
+        "endY": -3.35
+    },
+    {
+        "startX": 5.2,
+        "startY": -3.35,
+        "endX": 5.225,
+        "endY": -3.25
+    },
+    {
+        "startX": 5.225,
+        "startY": -3.25,
+        "endX": 5.125,
+        "endY": -3.2
+    },
+    {
+        "startX": 5.125,
+        "startY": -3.2,
+        "endX": 5,
+        "endY": -3.325
+    },
+    {
+        "startX": 6,
+        "startY": -3.45,
+        "endX": 5.625,
+        "endY": -3.85
+    },
+    {
+        "startX": 5.625,
+        "startY": -3.85,
+        "endX": 5.525,
+        "endY": -3.85
+    },
+    {
+        "startX": 5.525,
+        "startY": -3.85,
+        "endX": 5.475,
+        "endY": -3.725
+    },
+    {
+        "startX": 5.475,
+        "startY": -3.725,
+        "endX": 5.8,
+        "endY": -3.35
+    },
+    {
+        "startX": 5.8,
+        "startY": -3.35,
+        "endX": 5.8,
+        "endY": -3.25
+    },
+    {
+        "startX": 5.8,
+        "startY": -3.225,
+        "endX": 5.65,
+        "endY": -3.25
+    },
+    {
+        "startX": 5.65,
+        "startY": -3.25,
+        "endX": 5.55,
+        "endY": -3.375
+    },
+    {
+        "startX": 5.55,
+        "startY": -3.375,
+        "endX": 5.45,
+        "endY": -3.375
+    },
+    {
+        "startX": 5.45,
+        "startY": -3.375,
+        "endX": 5.475,
+        "endY": -3.2
+    },
+    {
+        "startX": 5.475,
+        "startY": -3.2,
+        "endX": 5.6,
+        "endY": -3.125
+    },
+    {
+        "startX": 5.6,
+        "startY": -3.125,
+        "endX": 5.775,
+        "endY": -3.075
+    },
+    {
+        "startX": 5.775,
+        "startY": -3.075,
+        "endX": 5.975,
+        "endY": -3.1
+    },
+    {
+        "startX": 5.975,
+        "startY": -3.125,
+        "endX": 5.975,
+        "endY": -3.275
+    },
+    {
+        "startX": 5.975,
+        "startY": -3.275,
+        "endX": 5.725,
+        "endY": -3.6
+    },
+    {
+        "startX": 5.725,
+        "startY": -3.6,
+        "endX": 5.95,
+        "endY": -3.45
+    },
+    {
+        "startX": 6.125,
+        "startY": -3.8,
+        "endX": 6.375,
+        "endY": -3.1
+    },
+    {
+        "startX": 6.375,
+        "startY": -3.1,
+        "endX": 6.275,
+        "endY": -3.05
+    },
+    {
+        "startX": 6.275,
+        "startY": -3.05,
+        "endX": 6.025,
+        "endY": -3.2
+    },
+    {
+        "startX": 6.025,
+        "startY": -3.2,
+        "endX": 6.025,
+        "endY": -3.3
+    },
+    {
+        "startX": 6.025,
+        "startY": -3.3,
+        "endX": 6.15,
+        "endY": -3.275
+    },
+    {
+        "startX": 6.15,
+        "startY": -3.275,
+        "endX": 6.025,
+        "endY": -3.8
+    },
+    {
+        "startX": 6.025,
+        "startY": -3.8,
+        "endX": 6.1,
+        "endY": -3.8
+    },
+    {
+        "startX": 6.975,
+        "startY": -3.425,
+        "endX": 6.65,
+        "endY": -3.8
+    },
+    {
+        "startX": 6.625,
+        "startY": -3.8,
+        "endX": 6.5,
+        "endY": -3.85
+    },
+    {
+        "startX": 6.5,
+        "startY": -3.85,
+        "endX": 6.425,
+        "endY": -3.725
+    },
+    {
+        "startX": 6.425,
+        "startY": -3.725,
+        "endX": 6.8,
+        "endY": -3.3
+    },
+    {
+        "startX": 6.8,
+        "startY": -3.3,
+        "endX": 6.725,
+        "endY": -3.2
+    },
+    {
+        "startX": 6.725,
+        "startY": -3.2,
+        "endX": 6.525,
+        "endY": -3.275
+    },
+    {
+        "startX": 6.525,
+        "startY": -3.275,
+        "endX": 6.5,
+        "endY": -3.375
+    },
+    {
+        "startX": 6.5,
+        "startY": -3.4,
+        "endX": 6.4,
+        "endY": -3.4
+    },
+    {
+        "startX": 6.425,
+        "startY": -3.375,
+        "endX": 6.425,
+        "endY": -3.225
+    },
+    {
+        "startX": 6.425,
+        "startY": -3.225,
+        "endX": 6.625,
+        "endY": -3.075
+    },
+    {
+        "startX": 6.625,
+        "startY": -3.075,
+        "endX": 6.875,
+        "endY": -3.05
+    },
+    {
+        "startX": 6.85,
+        "startY": -3.05,
+        "endX": 7,
+        "endY": -3.175
+    },
+    {
+        "startX": 7,
+        "startY": -3.175,
+        "endX": 6.725,
+        "endY": -3.55
+    },
+    {
+        "startX": 6.725,
+        "startY": -3.55,
+        "endX": 7,
+        "endY": -3.4
+    }
+]
