@@ -103,10 +103,9 @@ button {
     background-color: #61dafb;
     border: none;
     color: #282c34;
-    padding: 15px 30px;
+    padding: 0px 30px;
     font-size: 1.2em;
     cursor: pointer;
-    border-radius: 8px;
     transition: background-color 0.3s, transform 0.3s;
 }
 
@@ -120,14 +119,12 @@ button:active {
 }
 
 input[type="file"] {
-    margin-top: 10px;
-    padding: 10px;
+    padding: 15px 30px;
     background-color: #61dafb;
     border: none;
     color: #282c34;
     font-size: 1em;
     cursor: pointer;
-    border-radius: 8px;
     transition: background-color 0.3s, transform 0.3s;
 }
 
@@ -144,7 +141,9 @@ input[type="file"]:active {
     width: 800px;
     height: 800px;
     border: 2px solid #61dafb;
-    margin-top: 20px;
+    margin-top: 30px;
     background-color: #333346;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+	position: absolute;
 }
+

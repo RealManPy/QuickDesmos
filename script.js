@@ -14,7 +14,7 @@ let image = new Image();
 let currentColor = '#000000'; // Default line color
 
 var elt = document.getElementById('calculator');
-var calculator = Desmos.GraphingCalculator(elt, {expressions: false}, {settingsMenu: false});
+var calculator = Desmos.GraphingCalculator(elt, {expressionsCollapsed: true}, {settingsMenu: false});
 
 canvas.addEventListener('mousedown', (e) => {
     startX = (e.offsetX - centerX) / scale;
