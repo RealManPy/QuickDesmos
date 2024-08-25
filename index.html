@@ -11,32 +11,31 @@
     <div id="header">
         <h1>Quick Desmos</h1>
     </div>
-    <div id="game-container">
-			<div id="color-buttons">
-				<button class="color-btn" data-color="#ff0000"></button>
-				<button class="color-btn" data-color="#00ff00"></button>
-				<button class="color-btn" data-color="#0000ff"></button>
-				<button class="color-btn" data-color="#ffff00"></button>
-				<button class="color-btn" data-color="#ff00ff"></button>
-				<button class="color-btn" data-color="#00ffff"></button>
-				<button class="color-btn" data-color="#000000"></button>
-			</div>
-			<canvas id="drawingCanvas" width="800" height="800"></canvas> <br>
-
-		<div>
-        <div id="controls">
-            <div id="buttons">
-                <button id="undo">Undo</button>
-                <button id="clear">Clear</button>
-                <button id="showEquations">Show Equations</button>
-				<input type="file" id="imageUpload" accept="image/*">
-            </div>
-            
-        </div>
-        <div id="calculator"></div>
+	<div id="main">
+		<div id="draw-container">
+				<div id="color-buttons">
+					<button class="color-btn" data-color="#ff0000"></button>
+					<button class="color-btn" data-color="#00ff00"></button>
+					<button class="color-btn" data-color="#0000ff"></button>
+					<button class="color-btn" data-color="#ffff00"></button>
+					<button class="color-btn" data-color="#ff00ff"></button>
+					<button class="color-btn" data-color="#00ffff"></button>
+					<button class="color-btn" data-color="#000000"></button>
+					<input type="color" id="customColorPicker">
+				</div>
+				<canvas id="drawingCanvas" width="800" height="800"></canvas> <br>
 		</div>
 		
-    </div>
+		<div id="calculator"></div>
+	</div>
+	<div id="controls">
+		<div id="buttons">
+			<button id="undo">Undo</button>
+			<button id="download">Export Json</button>
+			<button id="clear">Clear</button>
+			<input type="file" id="imageUpload" accept="image/*">
+		</div>
+	</div>
     <script src="script.js"></script>
 </body>
 </html>

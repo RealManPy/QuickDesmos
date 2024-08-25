@@ -21,21 +21,15 @@ body {
     border-bottom: 2px solid #61dafb;
 }
 
-#game-container {
+#draw-container {
     display: flex;
     align-items: center;
 	flex-direction: column;
     padding: 20px;
     width: 100%;
-    max-width: 900px;
+    max-width: 800px;
 }
 
-#canvas-container {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    margin-bottom: 20px;
-}
 
 #color-buttons {
     display: flex;
@@ -85,6 +79,10 @@ body {
     background-color: #e0e0e5;
 }
 
+#main{
+	display: flex;
+    flex-direction: row;
+}
 #controls {
     display: flex;
     flex-direction: row;
@@ -141,9 +139,27 @@ input[type="file"]:active {
     width: 800px;
     height: 800px;
     border: 2px solid #61dafb;
-    margin-top: 30px;
+    margin-top: 70px;
     background-color: #333346;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-	position: absolute;
+}
+
+#customColorPicker {
+    width: 80px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    background-color: transparent;
+    appearance: none;
+}
+
+#customColorPicker::-webkit-color-swatch {
+    border: none;
+}
+
+#customColorPicker::-moz-color-swatch {
+    border: none;
+    border-radius: 50%;
 }
 
